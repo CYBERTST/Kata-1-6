@@ -26,6 +26,7 @@
     "not OperaMini All",
     "not dead"
   ],
+  "homepage": "https://CYBERTST.github.io/Kata-1-6",
   "devDependencies": {
     "@babel/core": "7.5.5",
     "@babel/preset-env": "7.5.5",
